@@ -1,4 +1,3 @@
-**Don't Forget to :star2: this repo**
 # Certificate-Generator
 This Code can create bulk amount of certificates in a fraction of :hourglass_flowing_sand: .
 ## Prep. To Generate Certificates :blue_book::pencil2:

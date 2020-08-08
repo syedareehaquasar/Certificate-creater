@@ -13,3 +13,6 @@ This Code can create bulk amount of certificates in a fraction of :hourglass_flo
 # You are ready to run :heavy_check_mark:
 + Type the following command in Git Bash or CMD in the same folder:
   + **_python certs.py_**
+  
+# Reference
+https://dev.to/mursalfk/generate-certificates-using-python-e74
